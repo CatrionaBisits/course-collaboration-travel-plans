@@ -16,6 +16,8 @@ body {
 }
 
 .container {
+    color: blue;
+    background-colour: green;
     margin: auto;
     padding: 1em;
     width: 80%;
